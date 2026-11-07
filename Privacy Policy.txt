@@ -1,0 +1,63 @@
+سياسة الخصوصية لتطبيق حاسبة الأموال (Fulus Counter)
+Privacy Policy for Fulus Counter App
+===================================================
+
+تاريخ السريان / Effective Date: 2026-11-07
+المطور / Developer: N7
+تواصل / Contact: Telegram (@m_na891) | https://t.me/m_na891
+
+---------------------------------------------------
+[AR] العربية
+---------------------------------------------------
+
+توضح سياسة الخصوصية هذه كيفية تعامل تطبيق "حاسبة الأموال" (Fulus Counter) مع بياناتك ومعلوماتك أثناء استخدامه. نلتزم بأعلى معايير الشفافية والخصوصية.
+
+1. جمع البيانات واستخدامها:
+- لا نقوم بجمع أو حفظ أي بيانات شخصية (مثل الاسم، البريد الإلكتروني، رقم الهاتف، أو جهات الاتصال).
+- التطبيق لا يتطلب إنشاء حساب أو تسجيل دخول.
+- كافة العمليات الحسابية، وأرقام الفئات النقدية، ومطابقة الصندوق، وسجل الحسابات، وسعر الصرف، يتم تخزينها ومعالجتها محلياً فقط على جهاز المستخدم (Local Device Storage).
+- لا يتم إرسال أو نقل أي بيانات مالية أو تقارير إلى أي خوادم خارجية أو أطراف ثالثة إطلاقاً.
+
+2. الأذونات المطلوبة (Permissions):
+- إذن الاهتزاز (android.permission.VIBRATE): يُستخدم فقط لمنح استجابة لمسية (Haptic Feedback) خفيفة عند النقر على الأزرار وإضافة الشدات لمحاكاة آلات عد النقد الميكانيكية، ولا يستخدم لأي غرض آخر.
+
+3. تصدير ومشاركة التقارير:
+- عند قيامك بتصدير تقرير الجرد كنص أو كصورة إيصال (PNG)، يتم إنشاء الملف مؤقتاً داخل مجلد الكاش الداخلي للتطبيق (App-specific cache) ومشاركته فقط عبر التطبيق الذي يختاره المستخدم بإرادته.
+
+4. الاتصال بالإنترنت والطرف الثالث:
+- التطبيق يعمل بالكامل دون الحاجة إلى اتصال بالإنترنت (Offline-first).
+- التطبيق خالٍ من أي مكتبات إعلانية أو أدوات تتبع وتحليل سلوكي (No Ads, No Third-party Trackers).
+
+5. خصوصية الأطفال:
+- التطبيق عبارة عن أداة إنتاجية وحسابية عامة، ولا يجمع أي معلومات من أي شخص، بما في ذلك الأطفال.
+
+6. التواصل والدعم:
+في حال وجود أي استفسار أو ملاحظة، يمكنكم التواصل مع المطور عبر:
+- Telegram: https://t.me/m_na891
+- Developer Handle: @m_na891
+
+===================================================
+[EN] English
+===================================================
+
+This Privacy Policy explains how "Fulus Counter" handles your data and privacy.
+
+1. Data Collection and Usage:
+- No Personal Data Collected: The app does not collect, transmit, or share any personal information (e.g., name, email, phone number, device identifiers).
+- No Account Needed: The app requires no registration or account creation.
+- Local Storage Only: All currency calculations, denominations, cash reconciliation counts, history logs, and exchange rate preferences are stored and processed strictly on your local device. No data is ever transmitted to external servers or third parties.
+
+2. Device Permissions:
+- VIBRATE (android.permission.VIBRATE): Used solely to provide tactile feedback (Haptic Feedback) when tapping counter buttons and adding bundles, simulating physical cash counter machines.
+
+3. Sharing and Exporting Receipts:
+- When exporting calculation reports or sharing receipt images, the image is rendered locally in the application cache and transferred directly to the user-selected application via Android standard sharing intents.
+
+4. Offline Capability and Third-Party Services:
+- The app operates entirely offline.
+- No third-party analytics, ads, or tracking SDKs are embedded in the application.
+
+5. Contact:
+If you have any questions or feedback regarding this policy, feel free to contact the developer:
+- Telegram: https://t.me/m_na891
+- Developer ID: @m_na891
